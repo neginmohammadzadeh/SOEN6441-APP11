@@ -1,0 +1,19 @@
+2020-11-14 02:29:55,197 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-6 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
+
+    play.filters.csrf.CSRFFilter
+    play.filters.headers.SecurityHeadersFilter
+    play.filters.hosts.AllowedHostsFilter
+
+2020-11-14 02:29:55,262 [INFO] from play.api.Play in play-dev-mode-akka.actor.default-dispatcher-6 - Application started (Dev) (no global state)
+2020-11-14 02:35:47,728 [WARN] from com.gargoylesoftware.htmlunit.IncorrectnessListenerImpl in pool-1-thread-1 - Obsolete content type encountered: 'text/javascript'.
+2020-11-14 02:35:51,615 [WARN] from com.gargoylesoftware.htmlunit.IncorrectnessListenerImpl in pool-1-thread-1 - Obsolete content type encountered: 'text/javascript'.
+2020-11-14 02:35:51,790 [INFO] from play.api.internal.libs.concurrent.CoordinatedShutdownSupport in main - Starting synchronous coordinated shutdown with ServerStoppedReason reason and 2147508000 milliseconds timeout
+2020-11-14 02:35:51,805 [INFO] from play.core.server.AkkaHttpServer in application-akka.actor.internal-dispatcher-2 - Terminating server binding for /0:0:0:0:0:0:0:0:19001
+2020-11-14 02:35:51,825 [INFO] from play.core.server.AkkaHttpServer in application-akka.actor.internal-dispatcher-3 - Running provided shutdown stop hooks
+2020-11-14 02:36:52,094 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-39 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
+
+    play.filters.csrf.CSRFFilter
+    play.filters.headers.SecurityHeadersFilter
+    play.filters.hosts.AllowedHostsFilter
+
+2020-11-14 02:36:52,102 [INFO] from play.api.Play in play-dev-mode-akka.actor.default-dispatcher-39 - Application started (Dev) (no global state)
